@@ -1,0 +1,3 @@
+Göran's Pizzeria|JohanssonVägen 234|Övrigt
+Häslo och Friskvård|HerlingsTorget 3| Hälsa/Sjukvård
+Karlsson Bygg och Flytt Firma|Görlandsgatan 12|Industri / Bygg

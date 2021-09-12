@@ -1,0 +1,7 @@
+C:\Users\gabri\source\repos\ProjektArbete\ProjektArbete\bin\Debug\ProjektArbete.exe.config
+C:\Users\gabri\source\repos\ProjektArbete\ProjektArbete\bin\Debug\ProjektArbete.exe
+C:\Users\gabri\source\repos\ProjektArbete\ProjektArbete\bin\Debug\ProjektArbete.pdb
+C:\Users\gabri\source\repos\ProjektArbete\ProjektArbete\obj\Debug\ProjektArbete.csprojAssemblyReference.cache
+C:\Users\gabri\source\repos\ProjektArbete\ProjektArbete\obj\Debug\ProjektArbete.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\ProjektArbete\ProjektArbete\obj\Debug\ProjektArbete.exe
+C:\Users\gabri\source\repos\ProjektArbete\ProjektArbete\obj\Debug\ProjektArbete.pdb
