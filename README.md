@@ -28,7 +28,7 @@ StreamReader to read out the companies from Company.txt when they come to the us
 DownloadAllCompanies(), because this method retrieves its list of companies from CompanyArr.Length
 which contains the companies that saved the help of StreamWriter.
 When we want to delete a company, the user will see the list of all the companies that are already
-registered by the GetAllCompany() method;. Then it will find out if they name it
+registered by the GetAllCompany() method;. It will find out if they name it
 the company specified by the user is in FöretasArr.length and delete it if you find it in the Vector.
 We want to use several different sorting methods such as when we want to SortArrayBy Letter()
 or SearchAfterSector() when we sort / search through the vector based on what we want to find. We used
