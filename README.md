@@ -2,7 +2,7 @@
 
 School group project of two classmate!
 
-This program is a program that allows the user to add Companies, delete companies, see a list of
+This program is a program that allows the user to add companies, delete companies, see a list of
 all companies and search / sort companies. In the register, the user will enter the company name,
 company address and then choose between 7 different sectors in which the company can work. User will be able to see all the companies that are already registered in the register. There will be two
 different choices to search within the vector. The first choice will be a sort based on the sector as one
