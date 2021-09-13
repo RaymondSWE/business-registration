@@ -1,6 +1,6 @@
 # business-register
 
-School group project of two classmate!
+Group project of two classmate!
 
 This program is a program that allows the user to add companies, delete companies, see a list of all companies and search/sort companies. In the register, the user will enter the company name and company address and then choose between 7 different sectors in which the company can work. User will be able to see all the companies that are already registered in the register. There will be two different choices to search within the vector. The first choice will be a sort based on the sector as one
 companies find themselves within. You will be able to search for a certain sector and get as output number of companies registered in that sector. The second method will be to sort all the companies in the vector based on the alphabetical order of their names. In this case, we have implemented that
